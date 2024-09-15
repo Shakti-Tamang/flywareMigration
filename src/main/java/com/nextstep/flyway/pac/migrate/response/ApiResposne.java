@@ -25,5 +25,8 @@ public class ApiResposne<T>{
     @JsonInclude(JsonInclude.Include.NON_NULL)
     @JsonProperty("object")
     T ab;
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonProperty("token")
+    String token;
 
 }
