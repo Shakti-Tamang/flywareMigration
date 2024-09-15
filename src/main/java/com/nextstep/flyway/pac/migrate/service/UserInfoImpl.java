@@ -35,7 +35,6 @@ public class UserInfoImpl implements UserInfo {
         List<UserInfoModel>list=userRepoSitory.findAll();
         return list.isEmpty()? new ArrayList<>():list;
     }
-
     @Override
     public UserInfoModel getOneUser(int id) {
 

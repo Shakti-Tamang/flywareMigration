@@ -12,6 +12,12 @@ import java.util.Collection;
 import java.util.List;
 import java.util.stream.Collectors;
 
+
+//The UserDetailInfo class represents the authenticated user's details (like username, password,
+//        and roles) in Spring Security. During authentication, it's used to load user
+//        information from the database and verify credentials. If successful, it helps generate
+//        a JWT token to secure further API requests. This class also ensures the user's account is
+//        valid and active for access control.
 public class UserDetailInfo  implements UserDetails {
     private String username;
     private String password;

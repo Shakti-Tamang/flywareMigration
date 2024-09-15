@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="95da5255-c481-41df-824c-d557c35b7c1d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrateprac.iml" beforeDir="false" afterPath="$PROJECT_DIR$/migrateprac.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nextstep/flyway/pac/migrate/service/UserDetailInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nextstep/flyway/pac/migrate/service/UserDetailInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nextstep/flyway/pac/migrate/service/UserInfoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nextstep/flyway/pac/migrate/service/UserInfoImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +87,7 @@
       <workItem from="1726112086942" duration="1392000" />
       <workItem from="1726132195070" duration="600000" />
       <workItem from="1726310761068" duration="12057000" />
+      <workItem from="1726380815055" duration="2337000" />
     </task>
     <servers />
   </component>
@@ -119,9 +123,9 @@
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state width="1323" height="562" key="GridCell.Tab.0.right/0.0.1366.720@0.0.1366.720" timestamp="1726370635337" />
-    <state x="391" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1726134769403">
+    <state x="391" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1726380823660">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="391" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.720@0.0.1366.720" timestamp="1726134769403" />
+    <state x="391" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.720@0.0.1366.720" timestamp="1726380823660" />
   </component>
 </project>
